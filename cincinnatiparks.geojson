@@ -30,7 +30,8 @@
         {
             "type":"Feature",
             "properties":{
-                "amenity":"palm_house"
+                "amenity":"palm_house",
+                "name" : "Palm House"
             },
             "geometry":{
                 "type":"Point",
@@ -43,7 +44,8 @@
         {
             "type":"Feature",
             "properties":{
-                "amenity":"visitor_center"
+                "amenity":"visitor_center",
+                "name" : "Visitor Center"
             },
             "geometry":{
                 "type":"Point",
@@ -427,7 +429,8 @@
         {
             "type":"Feature",
             "properties":{
-                "highway":"footway"
+                "highway":"footway",
+                "name" : "Foot way"
             },
             "geometry":{
                 "type":"LineString",
@@ -450,7 +453,8 @@
         {
             "type":"Feature",
             "properties":{
-                "amenity":"parking"
+                "amenity":"parking",
+                "name" : "Parking"
             },
             "geometry":{
                 "type":"LineString",
@@ -1113,7 +1117,8 @@
         {
             "type":"Feature",
             "properties":{
-                "amenity":"tropical_house"
+                "amenity":"tropical_house",
+                "name" : "Tropical House"
             },
             "geometry":{
                 "type":"Point",
@@ -1126,7 +1131,8 @@
         {
             "type":"Feature",
             "properties":{
-                "amenity":"parking"
+                "amenity":"parking",
+                "name" : "Parking"
             },
             "geometry":{
                 "type":"Point",
@@ -1139,7 +1145,8 @@
         {
             "type":"Feature",
             "properties":{
-                "amenity":"craft_room"
+                "amenity":"craft_room",
+                "name" : "Craft Room"
             },
             "geometry":{
                 "type":"Point",
@@ -1244,7 +1251,8 @@
         {
             "type":"Feature",
             "properties":{
-                "amenity":"desert_house"
+                "amenity":"desert_house",
+                "name" : "Desert House"
             },
             "geometry":{
                 "type":"Point",
@@ -1476,7 +1484,8 @@
         {
             "type":"Feature",
             "properties":{
-                "amenity":"gift_shop"
+                "amenity":"gift_shop",
+                "name" : "Gift Shop"
             },
             "geometry":{
                 "type":"Point",
